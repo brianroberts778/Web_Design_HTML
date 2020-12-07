@@ -4,10 +4,20 @@
   }
   
   p{
-    color: grey;
+    color:grey;
     text-align:left;
   }
 
   .navbar a{
     background-color:lightseagreen;
   }
+
+  body {
+    background-color: lightgray;
+  }
+
+  .col {
+    width: 100%;
+    border: black 1px solid; 
+  } 
+  
