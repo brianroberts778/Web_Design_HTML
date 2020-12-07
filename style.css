@@ -16,8 +16,10 @@
     background-color: lightgray;
   }
 
-
   #imgsel{
     border: lightseagreen 2px solid;
   }
   
+  .divftr{
+      text-align: center;
+  }
