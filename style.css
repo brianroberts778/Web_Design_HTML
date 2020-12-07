@@ -20,4 +20,8 @@
     width: 100%;
     border: black 1px solid; 
   } 
+
+  #imgsel{
+    border: lightseagreen 2px solid;
+  }
   
