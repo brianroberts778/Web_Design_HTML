@@ -1,4 +1,4 @@
-# Web_Design_Challenge
+# Web_Design_HTML
 
 Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
