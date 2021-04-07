@@ -33,4 +33,6 @@ The website, at the top of every page, has a navigation menu that:
 Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section (notice the background color change).
+Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section.
+
+<img width="1439" alt="webdesign" src="https://user-images.githubusercontent.com/70656160/113900650-0cc71c80-979c-11eb-80b3-835ddafa5a35.png">
